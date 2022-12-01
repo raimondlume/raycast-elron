@@ -22,7 +22,6 @@ const Stops: React.FC<Props> = ({ tripId }) => {
   useEffect(() => {
     const fetchStops = async () => {
       const response = await axios.get(`https://api.ridango.com/v2/64/intercity/trip/${tripId}/details`);
-      console.log(response.data);
       setStops(response.data as DetailsResponse);
     };
     fetchStops();

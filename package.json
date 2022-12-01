@@ -12,8 +12,8 @@
   "commands": [
     {
       "name": "index",
-      "title": "Show Train Times",
-      "description": "Template for showing a static list and a detail view",
+      "title": "Show Elron Times",
+      "description": "View Elron train times straight in Raycast. (available only in Estonia)",
       "mode": "view"
     }
   ],
