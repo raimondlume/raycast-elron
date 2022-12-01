@@ -9,12 +9,9 @@ See the [Elron](https://elron.ee) train times for
 ![img.png](assets/screenshot2.png)
 ![img.png](assets/screenshot3.png)
 
-## Usage
-Haven't bothered to publish this to the Raycast store yet, so clone this to your Raycast extensions folder and run it locally for now.
-
+## Local development
 [See Raycast's documentation for more](https://developers.raycast.com/basics/getting-started)
 
-### Local development
 ```bash
 npm install
 npm run dev
