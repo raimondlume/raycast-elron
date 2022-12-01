@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "elron",
-  "title": "Elron",
+  "title": "Elron Train Times",
   "description": "Fetch train times for Elron train times",
   "icon": "\uD83D\uDE82",
   "author": "Raimond_Lume",
@@ -12,7 +12,7 @@
   "commands": [
     {
       "name": "index",
-      "title": "Show Elron Times",
+      "title": "Show Elron Train Times",
       "description": "View Elron train times straight in Raycast. (available only in Estonia)",
       "mode": "view"
     }
